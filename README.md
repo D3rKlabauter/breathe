@@ -1,6 +1,6 @@
 # breathe
 
-Project Description:
+### Project Description:
 
 My work is intended to visually overwhelm the viewer at first sight with a large number of news headlines loaded in real time. Each block consists of a heading whose letters are shown one after the other - the first letter is colored in red. When moving the mouse cursor, the selected message is replaced with a positive term whose letters change more slowly.
 
