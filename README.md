@@ -9,6 +9,6 @@ The rapidly changing letters present the viewer with barely legible messages who
 
 ### Todo:
 - release source code
-- Upload screenshots
+- upload screenshots
 - add license
 
